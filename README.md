@@ -1,7 +1,7 @@
 # bootcamp-s24
 
-# Fall 23 Dev Bootcamp Exercises
-This repository contains all the exercises and resources needed for the Fall 2023 Dev Bootcamp.
+# Spring 24 Dev Bootcamp Exercises
+This repository contains all the exercises and resources needed for the Spring 2024 Dev Bootcamp.
 
 ## Submitting Projects & Exercises
 Throughout this bootcamp, bootcampers will submit projects and exercises through GitHub. We will utilize GitHub Organizations to make this happen. 
