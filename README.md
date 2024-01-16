@@ -1,4 +1,4 @@
-# bootcamp-f23
+# bootcamp-s24
 
 # Fall 23 Dev Bootcamp Exercises
 This repository contains all the exercises and resources needed for the Fall 2023 Dev Bootcamp.
