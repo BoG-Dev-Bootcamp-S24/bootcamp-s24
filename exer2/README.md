@@ -13,7 +13,7 @@ This exercise involves setting up your GitHub repo in the BoG Dev Bootcamp Organ
 1. Go to the [bootcamp-s24](https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24) repo on GitHub
 2. Click **Fork** in the top right corner
 3. Change the **Owner** to **BoG-Dev-Bootcamp-S24**
-4. Rename the repo `bootcamp-f23-yourname`
+4. Rename the repo `bootcamp-s24-yourname`
 5. Click **Create Fork**
 6. When the new repo has been created, click **Code** and **HTTPS** and copy the text
 7. Open Terminal or Git Bash on your computer and clone the repo with the command `git clone https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24-yourname.git` (make sure you know where this folder is located for future reference)
