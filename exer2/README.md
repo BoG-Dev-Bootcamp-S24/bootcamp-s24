@@ -1,25 +1,36 @@
-# Exercise 2 - Git Ready
+## Introduction
 
-## Description
-In this exercise, bootcampers will familiarize themselves with Unix Commands, Git, and GitHub. 
+Hello, thank you for showing your interest in Bits of Good! This semester, we wanted to ensure interested candidates are adequately prepared for the bootcamp through introducing this HTML/CSS oriented take home assessment. The bootcamp generally requires having some knowledge beforehand in HTML/CSS to be successful so this assessment will serve as a reflection of your ability to work with HTML/CSS.
 
-## Submission
-Collect points for this exercise by creating and having the correct contents for the GitHub repo specified in the Instructions. 
-- **Due Date**: TBD
+We have provided a sample HTML/CSS boilerplate but feel free to customize this repository to your needs or create your own. Because this assessment is very open ended, there are many ways to complete this assessment. Our only rules are:
 
-## Instructions
-This exercise involves setting up your GitHub repo in the BoG Dev Bootcamp Organization. This repo is where you will submit all exercises throughout the bootcamp. 
+- Please use only vanilla HTML, CSS, and Javascript (optional)
+- Do not use any libraries or frameworks such as Bootstrap, Jquery, React, etc.
+- CSS files can be named anything
+- Please make sure to name the file `index.html`
+- Please deploy your completed assignment to [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) and share the link with us
 
-1. Go to the [bootcamp-s24](https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24) repo on GitHub
-2. Click **Fork** in the top right corner
-3. Change the **Owner** to **BoG-Dev-Bootcamp-S24**
-4. Rename the repo `bootcamp-s24-yourname`
-5. Click **Create Fork**
-6. When the new repo has been created, click **Code** and **HTTPS** and copy the text
-7. Open Terminal or Git Bash on your computer and clone the repo with the command `git clone https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24-yourname.git` (make sure you know where this folder is located for future reference)
-8. Navigate into the `bootcamp-s24-yourname` directory that was just created via the clone command
-9. Navigate into the `exer2` folder
-10. Add the intro card files you wrote for your bootcamp application into the folder
-11. Stage, commit, and push these changes to GitHub
+To submit your project, please commit your code to Github (preferred) or another version control platform and share a link to your repository AND your deployed Github Page in our application.
 
-**Word of advice for future exercises** -> Before starting an exercise, make sure your repo is up-to-date with the main repo (we will be updating it with new exercises regularly!). Check by clicking **Sync Fork** and **Update branch** if needed. Then pull the changes to your local repo with `git pull origin main`.
+## Context
+
+For this assessment you will introduce yourself to the Bits of Good team by creating a small info page! This page can be formatted and styled however you wish, but it should take the form of a "card". This take home assessment will be a way for us to gage your knowledge of HTML and CSS.
+
+## Basic Requirements
+
+In your card, include the following information:
+
+- Name
+- Major
+- Year
+- Something you are passionate about related to social good
+- Where you're from (optional)
+
+## Above and Beyond (Optional)
+
+- Include animations using CSS or Javascript
+- Make your card interactive with buttons, text inputs, etc.
+
+## Sample Card
+
+![Sample Card](https://i.imgur.com/roVObwx.png)

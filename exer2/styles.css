@@ -1,0 +1,174 @@
+body {
+    height: 150%;
+    background: -webkit-linear-gradient(left top, rgb(101, 194, 238) , rgb(188, 22, 206));
+    background: -o-linear-gradient(bottom right, rgb(101, 194, 238) , rgb(188, 22, 206));
+    background: -moz-linear-gradient(bottom right, rgb(101, 194, 238) , rgb(188, 22, 206));
+    background: linear-gradient(to bottom right, rgb(101, 194, 238) , rgb(188, 22, 206)); /* rgb(38, 58, 89) */
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding-top: 100px;
+    display: grid;
+    place-items: center;
+}
+.grid-container {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 120px;
+    place-content: center;
+  }
+.btn {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    width: 110px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.blue {
+    border-color: #2196F3;
+    color: dodgerblue;
+  }
+  
+  .blue:hover {
+    background: #2196F3;
+    color: white;
+  }
+  
+  .orange {
+    border-color: #ff9800;
+    color: orange;
+  }
+  
+  .orange:hover {
+    background: #ff9800;
+    color: white;
+  }
+  
+  .red {
+    border-color: #f44336;
+    color: red;
+  }
+  
+  .red:hover {
+    background: #f44336;
+    color: white;
+  }
+.flip-card {
+    background-color: transparent;
+    box-shadow: rgba(black, 0.7);
+    width: 400px;
+    height: 450px;
+    /* border: 1px solid #f1f1f1; */
+    perspective: 1000px; 
+    justify-content: center;
+    background-position: center;
+    place-items: center;
+    box-sizing: border-box;
+    border-radius: 2rem;
+  }
+
+  .flip-card-inner {
+    position: relative;
+    width: 400px;
+    height: 450px;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+ 
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; 
+    backface-visibility: hidden;
+  }
+  
+  .flip-card-front {
+    background-color: #34AC90;
+    color: black;
+  }
+  
+  .flip-card-back {
+    background-color: #728CB0;
+    color: white;
+    transform: rotateY(180deg);
+    padding: 10;
+  }
+  .circle {
+    border-color: #666 #42789a;
+    border-image: none;
+    border-radius: 50% 50% 50% 50%;
+    border-style: solid;
+    border-width: 15px;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    background-position: center;
+    place-items: center;
+    overflow: hidden;
+  }
+.card {
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    background-position: center;
+    place-items: center;
+  }
+  
+  .title {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #5279d4;
+    width: 100%;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+  .times {
+    font-family: "Times New Roman", Times, serif;
+  }
+  .b {
+    font-weight: bold;
+    color: #EB77A6;
+  }
+  .copper {
+    font-family: copperplate, "Copperplate Gothic Light", fantasy;
+  }
+  
+  .lucida {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  .papyrus {
+    font-family: papyrus, fantasy;
+    font-size: 26px;
+  }
