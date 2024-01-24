@@ -1,0 +1,49 @@
+body {
+    height: 100%;
+    place-items: center;
+    display: grid;
+    background: linear-gradient(180deg, #FFFFD2 20%, #fafafa 80%);
+    background-repeat: no-repeat;
+}
+
+.image {
+    max-width: 20%;  
+    height: 330px;
+    display: block;
+    padding-top: 0.5%;    
+    padding-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.information {
+    width: 30%;
+    display: block;
+    margin: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-right: 4px solid #AA96DA;
+    border-bottom: 4px solid #AA96DA;
+    color: #AA96DA;
+    background-color: #C5FAD5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    line-height: 110%;
+}
+
+.dotted {
+    width: 90%;
+    border-top: 2px dashed #AA96DA;
+}
+
+.button {
+    background-color: #AA96DA;
+    color: white;
+    border-color: white;
+    text-align: center;
+    right: 44.5%;
+    bottom: 43%;
+    position: fixed;
+}

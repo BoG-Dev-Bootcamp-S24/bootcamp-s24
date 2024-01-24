@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ivan Wang Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="profile">
+        <hr class="dotted">
+        <img class="image" src="image.jpg" alt="image">
+        <button class = "button" onclick = "run()">
+            Click me to change color!
+        </button>
+        <script>
+            let number = 1;
+            function run() {
+                if (number > 3) {
+                    number = 0;
+                }
+                switch(number) {
+                    case 1: 
+                        document.body.style.backgroundColor="#AA96DA";
+                        break;
+                    case 2: 
+                        document.body.style.backgroundColor="#C5FAD5";
+                        break;
+                    case 3: 
+                        document.body.style.backgroundColor="#FFFFD2";
+                        break;
+                    default:
+                        document.body.style.backgroundColor="white";
+                }
+                number+=1;
+            }
+        </script>
+        <p class="information">
+            Hello, my name is Ivan Wang and I am a 2nd year student at Georgia Tech. 
+            I major in Computer Science with a concentration in intelligence and info-internetworks. 
+            Previously in high school, I've been involved in a variety of volunteering clubs. 
+            I volunteered for the elderly, tutored underclassmen, and even ran a local food drive. 
+            Specifically, I was the school service chairperson for my high school's chapter of Family Community Leaders (FCL). 
+            I am deeply passionate about helping out the community and still try to be involved today. 
+            Although I attend college in Georgia, I am actually from Massachusetts!
+        </p>
+    </div>
+</body>
+</html>
