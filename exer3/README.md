@@ -31,7 +31,7 @@ Similar to the Figma design, your webpage will consist of two pages, both of whi
 
 **Submission Instructions**
 
-By now, you should have a forked version of this repository locally cloned on your computer. If not, please complete [Exercise 2](https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/tree/main/exer2) before you begin. Start working on the project by navigating to your local repository and opening the `exer3` folder. This is where you'll create your HTML/CSS files for the webpage. Make sure to periodically commit your changes to meet the 8 commits requirement. Once you're done, commit _and push_ your changes so that they will be visible on Github.
+By now, you should have a forked version of this repository locally cloned on your computer. If not, please complete [Exercise 2](https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/tree/main/exer2) before you begin. Start working on the project by navigating to your local repository and opening the `exer3` folder. This is where you'll create your HTML/CSS files for the webpage. Make sure to periodically commit your changes to meet the 8 commits requirement. Once you're done, commit _and push_ your changes so that they will be visible on Github and **make a 1-2 minute video and link it at the top of the this README**
 
 **Word of advice for future exercises** -> Before starting an exercise, make sure your repo is up-to-date with the main repo. Check by clicking **Sync Fork** and **Update branch** if needed. Then pull the changes to your local repo with `git pull origin main`.
 
