@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Demo Website</title>
+    <style>
+        /* Basic Styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header, footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .row {
+            display: flex;
+            margin: -10px;
+        }
+
+        .column {
+            flex: 1;
+            padding: 10px;
+        }
+
+        /* Responsive Design */
+        @media screen and (max-width: 1000px) {
+            .row {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Responsive Demo Website</h1>
+    </header>
+    <div class="container">
+        <div class="row">
+            <div class="column" style="background-color: #aaa;">
+                <h2>Column 1</h2>
+                <p>Some text..</p>
+            </div>
+            <div class="column" style="background-color: #bbb;">
+                <h2>Column 2</h2>
+                <p>Some text..</p>
+            </div>
+            <div class="column" style="background-color: #ccc;">
+                <h2>Column 3</h2>
+                <p>Some text..</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>Footer Content</p>
+    </footer>
+</body>
+</html>
