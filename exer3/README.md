@@ -9,7 +9,7 @@ See the submission instructions down below.
 
 ## Instructions
 ### Part 1 - Flexbox Froggy
-This is an **optional** but strongly recommended exercise to familiarize yourself with flexbox. Access the exercise via [this link](https://flexboxfroggy.com/) and complete the levels in order of increasing difficulty.
+In order to familiarize yourself with flexbox, please complete this activity and post a screenshot of **ALL** completed levels. Access the exercise via [this link](https://flexboxfroggy.com/) and complete the levels in order of increasing difficulty.
 
 ### Part 2 - Design a Webpage
 Let’s take what you learned so far and make a simple webpage! Use HTML and CSS to design a webpage about literally anything that you're interested in (as long as it's school-appropriate, of course). Please follow this [Figma Design](https://www.figma.com/file/ntkLB8VoJ1yCSv65922Jdt/Simple-Google-Page?type=design&mode=design&t=693nvgfQneNp8ziH-0) to guide your website design. Note that the Figma design consists of two pages; you can navigate between them by clicking the Figma icon in the top left corner of the website. Also, while the sample design is more like an intro card, feel free to design it around anything you'd like (favorite animal, TV show, etc.).
@@ -31,7 +31,7 @@ Similar to the Figma design, your webpage will consist of two pages, both of whi
 
 **Submission Instructions**
 
-By now, you should have a forked version of this repository locally cloned on your computer. If not, please complete [Exercise 2](https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/tree/main/exer2) before you begin. Start working on the project by navigating to your local repository and opening the `exer3` folder. This is where you'll create your HTML/CSS files for the webpage. Make sure to periodically commit your changes to meet the 8 commits requirement. Once you're done, commit _and push_ your changes so that they will be visible on Github.
+By now, you should have a forked version of this repository locally cloned on your computer. If not, please complete [Exercise 2](https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/tree/main/exer2) before you begin. Start working on the project by navigating to your local repository and opening the `exer3` folder. This is where you'll create your HTML/CSS files for the webpage. Make sure to periodically commit your changes to meet the 8 commits requirement. Once you're done, commit _and push_ your changes so that they will be visible on Github and **make a 1-2 minute video and link it at the top of the this README**
 
 **Word of advice for future exercises** -> Before starting an exercise, make sure your repo is up-to-date with the main repo. Check by clicking **Sync Fork** and **Update branch** if needed. Then pull the changes to your local repo with `git pull origin main`.
 
