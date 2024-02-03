@@ -32,3 +32,39 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+.webname {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 90px;
+}
+
+.name {
+    font-size: 60px;
+    margin: auto;
+}
+
+.searchbararea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#searchbar {
+    position: relative;
+    background-color: rgb(212, 209, 209);
+    top: 150px;
+    width: 50%;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 40px;
+    outline: none;
+    border: 2px solid black;
+}
+
+input[type=text] {
+    padding-left: 20px;
+}
+
