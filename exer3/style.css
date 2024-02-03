@@ -1,0 +1,34 @@
+body {
+    background-color: white;
+    margin: 0px;
+}
+
+#catIcon {
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    object-fit: cover;
+    object-position: 10%;
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+
+#catProfile {
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    object-fit: cover;
+    object-position: 10%;
+    position: relative;
+    right: 5px;
+    top: 5px;
+}
+
+.bar {
+    width: 100%;
+    height: 80px;
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+}
