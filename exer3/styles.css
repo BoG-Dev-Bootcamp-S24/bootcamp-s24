@@ -1,0 +1,74 @@
+body {
+    font-family: 'Arial';
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.top-bar {
+    background-color: rgb(208, 208, 208);
+    display: flex;
+    justify-content: space-between; /* Add this line */
+    align-items: center;
+    padding: 10px;
+}
+
+.left-content img {
+    max-height: 60px; /* Set height explicitly */
+    width: auto; /* Maintain aspect ratio */
+}
+
+.right-content {
+    display: flex;
+    align-items: center; /* Align items vertically in the right content */
+}
+
+.right-content button {
+    background-color: white;
+    border: 1px solid rgb(208, 208, 208);
+    cursor: pointer;
+    padding: 12px;
+    border-radius: 15px;
+    margin-left: 10px;
+    width: 100px;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+input {
+    padding: 12px;
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+button {
+    padding: 12px;
+    background-color: rgb(208, 208, 208);
+    cursor: pointer;
+    border-radius: 15px;
+    margin-left: 10px;
+    width: 100px;
+}
+
+header {
+    text-align: center;
+    margin-top: 50px;
+    font-size: xx-large;
+}
+
+footer {
+    position: absolute; /* Set position to absolute */
+    bottom: 0; /* Align the footer to the bottom */
+    width: 100%; /* Full width */
+    background-color: rgb(208, 208, 208);
+    padding: 10px;
+    text-align: center;
+}
