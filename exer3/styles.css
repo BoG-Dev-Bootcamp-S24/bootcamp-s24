@@ -24,10 +24,9 @@ h1 {
 .profile-img {
     display: block;
     object-fit: cover;
-    max-width: 200px;
-    margin: 20px auto;
+    max-width: 100px;
     border: 4px solid #9FBBCC;
-    border-radius: 50%;
+    border-radius: 100%;
     box-shadow: 0 0 10px rgb(106, 105, 105);
 }
 
@@ -110,4 +109,27 @@ button:hover {
     max-width: 500px; /* Maximum width of the search bar */
     margin: auto; /* Center the search bar horizontally */
     padding: 10px; /* Padding around the search bar */
+}
+
+/* flex_box about */
+
+.flex_box_about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Center items vertically */
+    width: 100%; /* Full width */
+    margin: auto; 
+    padding: 10px; 
+}
+
+h6 {
+    color: purple;
+    font-size: 16px;
+}
+/* about_content */
+.about_content {
+    background-color: #007bff; /* Background color of the button */
+    border-radius: 5px; /* Rounded corners for the button */
+    border: 20px;
+    padding: 10px;
 }
