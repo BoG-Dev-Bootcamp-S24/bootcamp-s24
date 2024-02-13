@@ -3,7 +3,8 @@
 In this project, you'll be creating a frontend that graphically displays Pokémon information (similiar to a Pokédex). To fetch all the necessary information, you'll be working with the [PokeAPI](https://pokeapi.co/docs/v2#pokemon).
 
 ## Setting Up
-- Make sure your repo is up to date!
+- Make sure your repo is up to date
+- Navigate to your forked repo
 - Run `create-react-app exer5` in your terminal
 - Helpful Advice: Creating a `components` folder in the `src` directory can help with organization and clutter!
 
