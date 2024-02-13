@@ -5,7 +5,11 @@ In this project, you'll be creating a frontend that graphically displays Pokémo
 ## Setting Up
 - Make sure your repo is up to date
 - Navigate to your forked repo
-- Run `create-react-app exer5` in your terminal
+- Navigate to `exer5`
+- Run `npx create-react-app pokedex` in your terminal
+- Navigate to the created `pokedex` directory
+- Run `npm start` to see the local server for the web app!
+
 - Helpful Advice: Creating a `components` folder in the `src` directory can help with organization and clutter!
 
 # Submission Instructions
