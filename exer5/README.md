@@ -25,7 +25,8 @@ In this project, you'll be creating a frontend that graphically displays Pokémo
 <img width="500" alt="Screenshot 2023-09-26 at 5 41 02 PM" src="https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/blob/main/exer5/assets/info_screen.jpeg">
 <img width="500" alt="Screenshot 2023-09-26 at 5 41 09 PM" src="https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/blob/main/exer5/assets/moves_screen.jpeg">
 
-**GIF of interactions**
+**GIF of interactions** 
+<br>
 ![](https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/blob/main/exer5/assets/Exer5_example.gif)
 
 ### General Guidelines
