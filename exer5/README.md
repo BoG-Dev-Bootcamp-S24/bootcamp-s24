@@ -23,8 +23,8 @@ In this project, you'll be creating a frontend that graphically displays Pokémo
 ## Project Specifications
 **What the end result should look like:**
 
-<img width="500" alt="Screenshot 2023-09-26 at 5 41 02 PM" src="https://github.com/BoG-Dev-Bootcamp-F23/project1-f23/assets/8647920/e32ac85b-18f0-424d-bccb-a369b55e12f2">
-<img width="500" alt="Screenshot 2023-09-26 at 5 41 09 PM" src="https://github.com/BoG-Dev-Bootcamp-F23/project1-f23/assets/8647920/46dc87f0-400f-4e3d-bcf9-557b58befd62">
+<img width="500" alt="Screenshot 2023-09-26 at 5 41 02 PM" src="https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/blob/main/exer5/assets/info_screen.jpeg">
+<img width="500" alt="Screenshot 2023-09-26 at 5 41 09 PM" src="https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/blob/main/exer5/assets/moves_screen.jpeg">
 
 ### General Guidelines
 You should try to follow the mockups as closely as possible (including the alignments). The Figma designs can be found [here](https://www.figma.com/file/fQMSS7UqlWSY8M4uadlboM/Bits-of-Good-F23-Project-1?type=design&node-id=0%3A1&mode=design&t=94SJ06eCzcBAOSip-1).
