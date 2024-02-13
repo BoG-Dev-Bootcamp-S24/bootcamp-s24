@@ -27,7 +27,7 @@ In this project, you'll be creating a frontend that graphically displays Pokémo
 <img width="500" alt="Screenshot 2023-09-26 at 5 41 09 PM" src="https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/blob/main/exer5/assets/moves_screen.jpeg">
 
 ### General Guidelines
-You should try to follow the mockups as closely as possible (including the alignments). The Figma designs can be found [here](https://www.figma.com/file/fQMSS7UqlWSY8M4uadlboM/Bits-of-Good-F23-Project-1?type=design&node-id=0%3A1&mode=design&t=94SJ06eCzcBAOSip-1).
+You should try to follow the mockups as closely as possible (including the alignments). The Figma designs can be found [here](https://www.figma.com/file/FuH7N8hWLw1UGoybZsLtNM/Bits_Of_Good_Exercise_5?type=design&node-id=0%3A1&mode=design&t=6K9yoFlC0fMsQIbW-1).
 
 This project is designed to replicate real Bits of Good developer work. Typically, developers are given mockups by designers and are tasked with implementing them in code.
 
